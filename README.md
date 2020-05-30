@@ -1,8 +1,8 @@
-![nodice][dots3.png]
+![nodice](./dots3.png)
 
-![nodice][dots1.png]
+![nodice](./dots1.png)
 
-![nodice][dots4.png]
+![nodice](./dots4.png)
 
 # graphics
 
