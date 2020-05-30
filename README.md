@@ -1,3 +1,9 @@
+![nodice][dots3.png]
+
+![nodice][dots1.png]
+
+![nodice][dots4.png]
+
 # graphics
 
 A Quil sketch designed to ... well, that part is up to you.
